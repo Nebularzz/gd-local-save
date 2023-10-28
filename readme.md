@@ -13,7 +13,7 @@ Next step is to navigate to your desired directory by using `cd`.
 Then create a new crate by entering the following command:
 `cargo new gd_local_save`
 
-Once you created your crate, you can clone this repository by typing: `git clone https://github.com/Nebularzz/gd-local-save`
+Once you created your crate, you can clone this repository by typing: `git clone https://github.com/Nebularzz/gd-local-save.git`
 After that, open your explorer and copy the files in src (from the cloned repository) to the src folder in your crate.
 Now navigate to your crate in powershell using `cd` and run `cargo build --release`
 Next step is to go to `\target\release` (from the crate in your explorer) and copy `gd_local_save.exe`

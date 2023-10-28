@@ -5,7 +5,7 @@ This is in no way affiliated with RobTopGames. This project is purely to help me
 I'm making this because I can't save my game data the usual way. So I'm making a tool to automate this.
 
 # INSTALLING
-To install, download the zip file below and extract it.
+To install, download the zip file from here: https://github.com/Nebularzz/gd-local-save/releases/
 
 # USAGE
 To run this, you need to go to the directory where the executable is and run `./gd_local_save arg` replace arg with either `save` or `load`
